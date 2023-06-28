@@ -52,6 +52,6 @@ German (Deutsch):
 
 ## Screenshots
 
-- ![image]https://imgur.com/w1ajlur
+- https://imgur.com/w1ajlur
 - https://imgur.com/J7gKQ9D
 - https://imgur.com/WspT312
