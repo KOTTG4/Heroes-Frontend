@@ -51,3 +51,7 @@ German (Deutsch):
 - HTML/CSS
 
 ## Screenshots
+
+https://imgur.com/w1ajlur
+https://imgur.com/J7gKQ9D
+https://imgur.com/WspT312
