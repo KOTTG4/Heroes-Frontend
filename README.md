@@ -51,6 +51,7 @@ German (Deutsch):
 - Angular
 - TypeScript
 - HTML/CSS
+- JsonCrack
 
 ## Screenshots
 
